@@ -1,70 +1,70 @@
-// data/pokeneas.js
+// data/pokemonList.js
 
-const pokeneas = [
+const pokemonList = [
   {
     id: 1,
-    nombre: "Rayquaza",
-    altura: "7.0 m",
-    habilidad: "Air Lock",
-    imagen: "https://img.pokemondb.net/artwork/large/rayquaza.jpg",
-    frase: "El que no arrisca, no pasa la trocha."
+    name: "Rayquaza",
+    height: "7.0 m",
+    ability: "Air Lock",
+    image: "https://img.pokemondb.net/artwork/large/rayquaza.jpg",
+    phrase: "Those who fly high, see further."
   },
   {
     id: 2,
-    nombre: "Agrron",
-    altura: "2.1 m",
-    habilidad: "Sturdy",
-    imagen: "https://img.pokemondb.net/artwork/large/aggron.jpg",
-    frase: "Ome, la vida es dura pero yo soy más."
+    name: "Agrron",
+    height: "2.1 m",
+    ability: "Sturdy",
+    image: "https://img.pokemondb.net/artwork/large/aggron.jpg",
+    phrase: "Strength is not about never falling, it's about always rising."
   },
   {
     id: 3,
-    nombre: "Charizard",
-    altura: "1.7 m",
-    habilidad: "Blaze",
-    imagen: "https://img.pokemondb.net/artwork/large/charizard.jpg",
-    frase: "Échele la culpa al frío, pero arrímese al fogón."
+    name: "Charizard",
+    height: "1.7 m",
+    ability: "Blaze",
+    image: "https://img.pokemondb.net/artwork/large/charizard.jpg",
+    phrase: "Fire doesn't destroy, it transforms."
   },
   {
     id: 4,
-    nombre: "Garchomp",
-    altura: "1.9 m",
-    habilidad: "Sand Veil",
-    imagen: "https://img.pokemondb.net/artwork/large/garchomp.jpg",
-    frase: "El que mucho abarca, poco aprieta, mijo."
+    name: "Garchomp",
+    height: "1.9 m",
+    ability: "Sand Veil",
+    image: "https://img.pokemondb.net/artwork/large/garchomp.jpg",
+    phrase: "Patience is the deadliest trap."
   },
   {
     id: 5,
-    nombre: "Infernape",
-    altura: "1.2 m",
-    habilidad: "Blaze",
-    imagen: "https://img.pokemondb.net/artwork/large/infernape.jpg",
-    frase: "Mono que se trepa, llega lejos."
+    name: "Infernape",
+    height: "1.2 m",
+    ability: "Blaze",
+    image: "https://img.pokemondb.net/artwork/large/infernape.jpg",
+    phrase: "Speed without direction is just noise."
   },
   {
     id: 6,
-    nombre: "Hydreigon",
-    altura: "1.8 m",
-    habilidad: "Levitate",
-    imagen: "https://img.pokemondb.net/artwork/large/hydreigon.jpg",
-    frase: "Tres cabezas piensan más que una, ome."
+    name: "Hydreigon",
+    height: "1.8 m",
+    ability: "Levitate",
+    image: "https://img.pokemondb.net/artwork/large/hydreigon.jpg",
+    phrase: "Three perspectives are worth more than one certainty."
   },
   {
     id: 7,
-    nombre: "Nidoking",
-    altura: "1.4 m",
-    habilidad: "Poison Point",
-    imagen: "https://img.pokemondb.net/artwork/large/nidoking.jpg",
-    frase: "Póngale la corona al que se la gana."
+    name: "Nidoking",
+    height: "1.4 m",
+    ability: "Poison Point",
+    image: "https://img.pokemondb.net/artwork/large/nidoking.jpg",
+    phrase: "True power is not imposed, it is earned."
   },
   {
     id: 8,
-    nombre: "Venusaur",
-    altura: "2.0 m",
-    habilidad: "Overgrow",
-    imagen: "https://img.pokemondb.net/artwork/large/venusaur.jpg",
-    frase: "Raíces paisas, flores pa' el mundo."
+    name: "Venusaur",
+    height: "2.0 m",
+    ability: "Overgrow",
+    image: "https://img.pokemondb.net/artwork/large/venusaur.jpg",
+    phrase: "Strong roots survive any storm."
   }
 ];
 
-module.exports = pokeneas;
+module.exports = pokemonList;
