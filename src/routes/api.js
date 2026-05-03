@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const pokemonList = require('../data/pokeneas');
+const pokemonList = require('../data/pokemonList');
 const os = require('os');
 
 router.get('/', (req, res) => {

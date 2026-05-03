@@ -1,5 +1,3 @@
-// data/pokemonList.js
-
 const pokemonList = [
   {
     id: 1,
