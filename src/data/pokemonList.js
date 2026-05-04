@@ -4,7 +4,7 @@ const pokemonList = [
     name: "Rayquaza",
     height: "7.0 m",
     ability: "Air Lock",
-    image: "https://img.pokemondb.net/artwork/large/rayquaza.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/rayquaza.jpg",
     phrase: "Those who fly high, see further."
   },
   {
@@ -12,7 +12,7 @@ const pokemonList = [
     name: "Agrron",
     height: "2.1 m",
     ability: "Sturdy",
-    image: "https://img.pokemondb.net/artwork/large/aggron.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/aggron.jpg",
     phrase: "Strength is not about never falling, it's about always rising."
   },
   {
@@ -20,7 +20,7 @@ const pokemonList = [
     name: "Charizard",
     height: "1.7 m",
     ability: "Blaze",
-    image: "https://img.pokemondb.net/artwork/large/charizard.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/charizard.jpg",
     phrase: "Fire doesn't destroy, it transforms."
   },
   {
@@ -28,7 +28,7 @@ const pokemonList = [
     name: "Garchomp",
     height: "1.9 m",
     ability: "Sand Veil",
-    image: "https://img.pokemondb.net/artwork/large/garchomp.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/garchomp.jpg",
     phrase: "Patience is the deadliest trap."
   },
   {
@@ -36,7 +36,7 @@ const pokemonList = [
     name: "Infernape",
     height: "1.2 m",
     ability: "Blaze",
-    image: "https://img.pokemondb.net/artwork/large/infernape.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/infernape.jpg",
     phrase: "Speed without direction is just noise."
   },
   {
@@ -44,7 +44,7 @@ const pokemonList = [
     name: "Hydreigon",
     height: "1.8 m",
     ability: "Levitate",
-    image: "https://img.pokemondb.net/artwork/large/hydreigon.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/hydreigon.jpg",
     phrase: "Three perspectives are worth more than one certainty."
   },
   {
@@ -52,7 +52,7 @@ const pokemonList = [
     name: "Nidoking",
     height: "1.4 m",
     ability: "Poison Point",
-    image: "https://img.pokemondb.net/artwork/large/nidoking.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/nidoking.jpg",
     phrase: "True power is not imposed, it is earned."
   },
   {
@@ -60,7 +60,7 @@ const pokemonList = [
     name: "Venusaur",
     height: "2.0 m",
     ability: "Overgrow",
-    image: "https://img.pokemondb.net/artwork/large/venusaur.jpg",
+    image: "https://storage.googleapis.com/pokedex-images-mariamny/venusaur.jpg",
     phrase: "Strong roots survive any storm."
   }
 ];
