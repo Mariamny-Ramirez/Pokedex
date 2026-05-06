@@ -9,7 +9,7 @@ const pokemonList = [
   },
   {
     id: 2,
-    name: "Agrron",
+    name: "Aggron",
     height: "2.1 m",
     ability: "Sturdy",
     image: "https://storage.googleapis.com/pokedex-images-mariamny/aggron.jpg",
